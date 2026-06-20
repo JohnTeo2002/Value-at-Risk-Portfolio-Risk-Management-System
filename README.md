@@ -202,9 +202,6 @@ var-portfolio-risk-system/
 │       ├── return_distribution.png
 │       ├── backtest.png
 │       └── stress_test.png
-│
-└── .github/workflows/
-    └── tests.yml               # GitHub Actions CI/CD
 ```
 
 ## Testing
